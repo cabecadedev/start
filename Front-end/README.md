@@ -1,7 +1,16 @@
   
-# INTRODUÇÃO AO FRONT-END
+![Alt text](header.png?raw=true "Header")
 
+```
+@cabecadedev: Bem-vindo(a) ao primeiro módulo de estudo, nele você irá aprender sobre front-end e ter uma base para iniciar seus projetos.
+```
+## ROADMAP
+ 
+  - [1 - HTML & CSS3](#1---html--css3---gustavo-guanabara)
+  - [2 - Javascript](#2---javascript---gustavo-guanabara)
+  - [3 - Javascript antes dos frameworks](#3---javascript-antes-dos-frameworks---origamid)
 
+---
 
 ## #1 - HTML & CSS3  - Gustavo Guanabara
 ## [Canal - Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
