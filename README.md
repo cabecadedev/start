@@ -67,12 +67,12 @@
 # Comunidade 😍
   <picture>
   <a href="https://instagram.com/cabecadedev">
-    <img width="50px" style="border:1px solid white;border-radius: 50%;" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="images/instagram.png?raw=true">
+    <img width="50px" style="border:1px solid white;border-radius: 50%;" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="images/instagram.png">
   </a>  
   </picture>
   <picture>
   <a href="https://discord.gg/338qBsQCJ4">
-  <img width="50px" style="border:1px solid white;border-radius: 50%;"  alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="images/discord.png?raw=true">
+  <img width="50px" style="border:1px solid white;border-radius: 50%;"  alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="images/discord.png">
   </a>
   </picture>
 
