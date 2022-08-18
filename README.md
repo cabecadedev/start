@@ -1,15 +1,16 @@
 ![Alt text](images/header.png?raw=true "Header")
 
 
+# Parabéns pela iniciativa 👏
 
-
-## Parabéns pela iniciativa 👏
 ```
-"O começo pode ser difícil, PERSISTA!!!
- Lembre-se que ninguém nasce sabendo e cada um tem o seu tempo."
+🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+🚨           O COMEÇO PODE SER DIFÍCIL, MAS PERSISTA!!!            🚨
+🚨  LEMBRE-SE QUE NINGUÉM NASCE SABENDO E CADA UM TEM O SEU TEMPO  🚨
+🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
 ```
 
-# Trilhas
+# Trilhas 📜
 - [1] [**Front-end - Introdução ✅**](Front-end/introducao/README.md)
   > Aqui você ira entender os conceitos básicos da internet, como `HTML`, `CSS`, `Javascript`, entre outros
 - [2] **Back-end - Introdução**
@@ -77,5 +78,5 @@
   </picture>
 
 
-# Obrigado por contribuir 🎉🎉🎉
+# Obrigado por contribuir 🎉
 [![GitHub Contributors Image](https://contrib.rocks/image?repo=cabecadedev/start)](https://github.com/cabecadedev/start/graphs/contributors)
