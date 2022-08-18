@@ -6,7 +6,8 @@
 ```
 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
 🚨           O COMEÇO PODE SER DIFÍCIL, MAS PERSISTA!!!            🚨
-🚨  LEMBRE-SE QUE NINGUÉM NASCE SABENDO E CADA UM TEM O SEU TEMPO  🚨
+🚨  LEMBRE-SE QUE NINGUÉM NASCE SABENDO E CADA UM TEM O SEU TEMPO! 🚨 
+🚨                 🎉  COMEMORE CADA CONQUISTA  🎉                🚨
 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
 ```
 
