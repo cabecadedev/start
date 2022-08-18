@@ -48,11 +48,11 @@
 
 
 <picture>
-  <img width="100px" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="images/instagram.png?raw=true">
+  <img width="100px" style="border:1px solid white;border-radius: 50%;" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="images/instagram.png?raw=true">
 </picture>
 <picture>
-  <img width="100px" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="images/discord.png?raw=true">
+  <img width="100px" style="border:1px solid white;border-radius: 50%;"  alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="images/discord.png?raw=true">
 </picture>
 <picture>
-  <img width="100px" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="images/tiktok.png?raw=true">
+  <img width="100px" style="border:1px solid white;border-radius: 50%;"  alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="images/tiktok.png?raw=true">
 </picture>
