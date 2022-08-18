@@ -1,25 +1,34 @@
   
-![Alt text](header.png?raw=true "Header")
+![Alt text](header.png?raw=true "Módulo 001 - Front-end")
 
 ```
 @cabecadedev: Bem-vindo(a) ao primeiro módulo de estudo, nele você irá aprender sobre front-end e ter uma base para iniciar seus projetos.
 ```
-## ROADMAP
+
+
+# Aqui você ira entender os conceitos básicos da internet, como `HTML`, `CSS`, `Javascript`, entre outros.
+
+
+A cor de fundo deve ser `#ffffff` para o modo claro e `#0d1117` para o modo escuro.
+
+
+
+## Módulos
  
   - [1 - HTML & CSS3](#1---html--css3---gustavo-guanabara)
   - [2 - Javascript](#2---javascript---gustavo-guanabara)
   - [3 - Javascript antes dos frameworks](#3---javascript-antes-dos-frameworks---origamid)
 
+
 ---
 
 ## #1 - HTML & CSS3  - Gustavo Guanabara
-## [Canal - Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
   - [Módulo 1](https://www.youtube.com/watch?v=Ejkb_YpuHWs&utm_source=cabecadedev&utm_medium=cabecadedev)
   - [Módulo 2](https://www.youtube.com/watch?v=vPNIAJ9B4hg&utm_source=cabecadedev&utm_medium=cabecadedev)
   - [Módulo 3](https://www.youtube.com/watch?v=ofFgnDtn_1c&utm_source=cabecadedev&utm_medium=cabecadedev) 
+  > Fonte: [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo?utm_medium=cabecadedev)
 ---
 ## #2 - Javascript - Gustavo Guanabara
-## [Canal - Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
   - [Playlist](https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&utm_source=cabecadedev&utm_medium=cabecadedev)
     - [Teaser](https://www.youtube.com/watch?v=1-w1RfGIov4&utm_source=cabecadedev&utm_medium=cabecadedev)
     - [Módulo A - Conhecendo o Javascript](https://www.youtube.com/watch?v=uzEhd3Lugik&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=3&utm_source=cabecadedev&utm_medium=cabecadedev)
@@ -53,10 +62,10 @@
       - [Exercícios Parte 7](https://www.youtube.com/watch?v=vEOEZ03ZyiE&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=31&utm_source=cabecadedev&utm_medium=cabecadedev)
       - [Exercícios Parte 8](https://www.youtube.com/watch?v=slLoLLCd-k0&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=32&utm_source=cabecadedev&utm_medium=cabecadedev)
       - [Próximos Passos](https://www.youtube.com/watch?v=roP93FA-NgU&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=33&utm_source=cabecadedev&utm_medium=cabecadedev)
+> Fonte: [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo?utm_medium=cabecadedev)      
 ---
 ## #3 - Javascript antes dos Frameworks  - Origamid
 
-## [Canal - Origamid](https://www.youtube.com/c/Origamid)
 
 
 - [Playlist](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&utm_source=cabecadedev&utm_medium=cabecadedev)
@@ -70,3 +79,7 @@
   - [08/10 - Array, Map, Filter e Reduce](https://www.youtube.com/watch?v=XiAtxDeP-p8&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=8&utm_source=cabecadedev&utm_medium=cabecadedev)
   - [09/10 - Expressões](https://www.youtube.com/watch?v=pbLTGXxTfNo&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=9&utm_source=cabecadedev&utm_medium=cabecadedev)
   - [10/10 - Class](https://www.youtube.com/watch?v=ITdr-Z27UCE&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt&index=10&utm_source=cabecadedev&utm_medium=cabecadedev)
+> Fonte: [Origamid](https://www.youtube.com/c/Origamid?utm_medium=cabecadedev)      
+
+---
+# [Voltar](../README.md)
