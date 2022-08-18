@@ -14,13 +14,13 @@
 # Trilhas 📜
 - [1] [**Front-end - Introdução ✅**](Front-end/introducao/README.md)
   > Aqui você ira entender os conceitos básicos da internet, como `HTML`, `CSS`, `Javascript`, entre outros
-- [2] **Back-end - Introdução**
+- [2] **Back-end - Introdução** 📝
   > Aqui você ira entender os conceitos básicos sobre servidores, aplicações e banco de dados.
-- [3] **Logica de Programação - Introdução**
+- [3] **Logica de Programação - Introdução** 📝
   > O que é? 
   >> Para que Serve?
   >>> Porque muita gente tem medo dela.🤯
-- [4] **Soft Skill's**
+- [4] **Soft Skill's** 📝
   > Aqui você ira entender os conceitos básicos sobre soft skill's.
 
 
